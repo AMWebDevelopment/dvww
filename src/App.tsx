@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { BrowserRouter, Routes, Route } from '@vercel/react-router';
 import Accueil from './Accueil';
 import Latelier from './Latelier';
 import Vente from './Vente';
