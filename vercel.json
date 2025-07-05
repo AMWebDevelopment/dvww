@@ -1,0 +1,9 @@
+{
+    "routes": [
+      { "src": "/", "dest": "/" },
+      { "src": "/latelier", "dest": "/" },
+      { "src": "/vente", "dest": "/" },
+      { "src": "/contact", "dest": "/" }
+      { "src": "/erreur", "dest": "/" }
+    ]
+  }
